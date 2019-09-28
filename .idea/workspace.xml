@@ -9,7 +9,9 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3bef094-25bd-44e5-83ab-7493fb506a24" name="Default Changelist" comment="new Version External V2 i hop so" />
+    <list default="true" id="a3bef094-25bd-44e5-83ab-7493fb506a24" name="Default Changelist" comment="new Version External V2 i hop so">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,8 +95,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/kLerTry/ExtraActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="55" column="25" lean-forward="true" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
+            <state relative-caret-position="63">
+              <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
             </state>
           </provider>
         </entry>
@@ -503,7 +505,7 @@
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="D:/6th Semester/Android/android-sdk-windows-1.6_r1" />
     <property name="device.picker.selection" value="Pixel_API_27" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../old one/ShowUserOnRecyclerView" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -775,7 +777,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" sideWeight="0.5023256" side_tool="true" weight="0.20121029" />
       <window_info content_ui="combo" id="Project" order="1" sideWeight="0.4964029" visible="true" weight="0.295764" />
@@ -786,12 +787,12 @@
       <window_info id="Designer" order="6" />
       <window_info id="Resources Explorer" order="7" weight="0.32980332" />
       <window_info id="Capture Tool" order="8" />
-      <window_info active="true" anchor="bottom" id="Run" order="0" sideWeight="0.49848714" visible="true" weight="0.32850242" />
+      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.49848714" visible="true" weight="0.32850242" />
       <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.49394855" weight="0.41223833" />
       <window_info anchor="bottom" id="TODO" order="2" weight="0.32850242" />
       <window_info anchor="bottom" id="Debug" order="3" />
       <window_info anchor="bottom" id="Terminal" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5015129" side_tool="true" visible="true" weight="0.32850242" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="5" sideWeight="0.5015129" side_tool="true" visible="true" weight="0.32850242" />
       <window_info anchor="bottom" id="Version Control" order="6" />
       <window_info anchor="bottom" id="Build" order="7" sideWeight="0.4924357" weight="0.29307568" />
       <window_info anchor="bottom" id="Android Profiler" order="8" />
@@ -1251,8 +1252,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/kLerTry/ExtraActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="55" column="25" lean-forward="true" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
+        <state relative-caret-position="63">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
         </state>
       </provider>
     </entry>
