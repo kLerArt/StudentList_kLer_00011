@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><shape xmlns:android="http://schemas.android.com/apk/res/android">    <gradient        android:endColor="#1834D1"        android:startColor="#199B4F"        android:useLevel="true"        android:gradientRadius="@android:integer/config_shortAnimTime"        android:angle="45"        /></shape>
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <gradient
+        android:endColor="#1834D1"
+        android:startColor="#199B4F"
+
+        android:useLevel="true"
+        android:gradientRadius="@android:integer/config_shortAnimTime"
+
+        android:angle="45"
+        />
+</shape>
