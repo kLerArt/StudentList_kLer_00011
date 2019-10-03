@@ -9,7 +9,9 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3bef094-25bd-44e5-83ab-7493fb506a24" name="Default Changelist" comment="" />
+    <list default="true" id="a3bef094-25bd-44e5-83ab-7493fb506a24" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -788,7 +790,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570096898286</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="kler 00011">
+      <created>1570098794722</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1570098794722</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TodoView">
@@ -892,7 +901,8 @@
     <MESSAGE value="new Version External V2" />
     <MESSAGE value="new Version External V2 i hop so" />
     <MESSAGE value="kler 00011" />
-    <option name="LAST_COMMIT_MESSAGE" value="kler 00011" />
+    <MESSAGE value="kler 00011      aaaaaaaaaaa" />
+    <option name="LAST_COMMIT_MESSAGE" value="kler 00011      aaaaaaaaaaa" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
