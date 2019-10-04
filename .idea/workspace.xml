@@ -11,10 +11,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3bef094-25bd-44e5-83ab-7493fb506a24" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/background_green_x.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/my_gray_one_this.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/my_one.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/myback_ground_hot_color.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -22,19 +18,9 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/Database/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/Database/Database.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/InsertANewData.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/InsertANewData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/myback_ground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/myback_ground.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_insert_anew_data.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_insert_anew_data.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_insert_data_orginal_k_ler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_insert_data_orginal_k_ler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_search_view_custom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_search_view_custom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_user_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_user_info.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/my.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/my.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,22 +53,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/Database/Database.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="318" selection-start-line="318" selection-end-line="320" selection-end-column="29" />
+            <state relative-caret-position="239">
+              <caret line="370" column="38" selection-start-line="370" selection-start-column="38" selection-end-line="370" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#getAllStudent#0;class#Database#0" />
                 <element signature="method#getDependToID#0;class#Database#0" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/FromRoshan/DBHelper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="81" column="1" selection-start-line="81" selection-start-column="1" selection-end-line="81" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -91,7 +67,7 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/InsertANewData.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="215">
-              <caret line="42" column="18" lean-forward="true" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+              <caret line="39" column="39" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
               <folding>
                 <element signature="e#759#1364#0" expanded="true" />
                 <element signature="e#1363#1364#0" expanded="true" />
@@ -118,6 +94,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="233">
               <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_insert_anew_data.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="122">
+              <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -163,6 +149,8 @@
       <find>QueryID</find>
       <find>StudentID</find>
       <find>TableName</find>
+      <find>Data</find>
+      <find>Database</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -579,7 +567,7 @@
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="D:/6th Semester/Android/android-sdk-windows-1.6_r1" />
-    <property name="device.picker.selection" value="XTX7N18C17000039" />
+    <property name="device.picker.selection" value="Pixel_API_27" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="show.migrate.to.gradle.popup" value="false" />
@@ -887,7 +875,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570098874165</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="this now Locking For Insert A new Data">
+      <created>1570185002932</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1570185002932</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TodoView">
@@ -913,13 +908,13 @@
       <window_info id="Resources Explorer" order="7" weight="0.32980332" />
       <window_info id="Capture Tool" order="8" />
       <window_info anchor="bottom" id="Run" order="0" sideWeight="0.4977307" weight="0.32850242" />
-      <window_info active="true" anchor="bottom" id="Logcat" order="1" sideWeight="0.49016643" visible="true" weight="0.41223833" />
+      <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.48940998" weight="0.41223833" />
       <window_info anchor="bottom" id="TODO" order="2" sideWeight="0.49924356" weight="0.32850242" />
       <window_info anchor="bottom" id="Debug" order="3" />
       <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.49924356" weight="0.32850242" />
-      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5098336" side_tool="true" visible="true" weight="0.41223833" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.51664144" side_tool="true" visible="true" weight="0.29307568" />
       <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.49621785" weight="0.32850242" />
-      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.48487142" weight="0.29307568" />
+      <window_info active="true" anchor="bottom" id="Build" order="7" sideWeight="0.48335856" visible="true" weight="0.29307568" />
       <window_info anchor="bottom" id="Android Profiler" order="8" />
       <window_info anchor="bottom" id="Flutter Performance" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="10" weight="0.32850242" />
@@ -993,7 +988,8 @@
     <MESSAGE value="new Version External V2 i hop so" />
     <MESSAGE value="kler 00011" />
     <MESSAGE value="kler 00011      aaaaaaaaaaa" />
-    <option name="LAST_COMMIT_MESSAGE" value="kler 00011      aaaaaaaaaaa" />
+    <MESSAGE value="this now Locking For Insert A new Data" />
+    <option name="LAST_COMMIT_MESSAGE" value="this now Locking For Insert A new Data" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1004,15 +1000,15 @@
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
+        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/Database/Database.java</url>
-          <line>50</line>
-          <properties class="programable.android.klerart.showuseronrecyclerview.Database.Database" method="getAllStudent" />
-          <option name="timeStamp" value="15" />
+          <line>136</line>
+          <properties />
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/Database/Database.java</url>
-          <line>178</line>
+          <line>180</line>
           <properties class="programable.android.klerart.showuseronrecyclerview.Database.Database" method="getDependToID" />
           <option name="timeStamp" value="16" />
         </line-breakpoint>
@@ -1295,14 +1291,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_insert_anew_data.xml">
-      <provider editor-type-id="android-designer2" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="77" selection-start-line="77" selection-end-line="77" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/background_green.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -1320,6 +1308,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_insert_anew_data.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/FromRoshan/DBHelper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -1330,7 +1326,7 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/InsertANewData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="215">
-          <caret line="42" column="18" lean-forward="true" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+          <caret line="39" column="39" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
           <folding>
             <element signature="e#759#1364#0" expanded="true" />
             <element signature="e#1363#1364#0" expanded="true" />
@@ -1340,11 +1336,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/Database/Database.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="318" selection-start-line="318" selection-end-line="320" selection-end-column="29" />
+        <state relative-caret-position="239">
+          <caret line="370" column="38" selection-start-line="370" selection-start-column="38" selection-end-line="370" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#getAllStudent#0;class#Database#0" />
             <element signature="method#getDependToID#0;class#Database#0" />
           </folding>
         </state>
