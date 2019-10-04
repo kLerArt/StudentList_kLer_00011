@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <gradient
+        android:endColor="#00B8D4"
+        android:startColor="#0091EA"
+
+        android:useLevel="true"
+        android:gradientRadius="@android:integer/config_shortAnimTime"
+
+        android:angle="45"
+        />
+</shape>

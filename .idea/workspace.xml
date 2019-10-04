@@ -11,6 +11,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3bef094-25bd-44e5-83ab-7493fb506a24" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/DeletedIfNotWork/InsertDataUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-anydpi/ic_action_img.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_action_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_action_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_action_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_action_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/background_insert.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_insert_data_user.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -18,9 +26,16 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/Database/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/Database/Database.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/InsertANewData.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/InsertANewData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,11 +65,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_insert_data_user.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="133" column="42" selection-start-line="133" selection-start-column="42" selection-end-line="133" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/Database/Database.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="370" column="38" selection-start-line="370" selection-start-column="38" selection-end-line="370" selection-end-column="38" />
+            <state relative-caret-position="63">
+              <caret line="299" column="29" selection-start-line="299" selection-start-column="19" selection-end-line="299" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#getDependToID#0;class#Database#0" />
@@ -64,46 +89,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/DeletedIfNotWork/InsertDataUser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="26" column="21" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/InsertANewData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="39" column="39" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
-              <folding>
-                <element signature="e#759#1364#0" expanded="true" />
-                <element signature="e#1363#1364#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/MainActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="61" column="5" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_search_view_custom.xml">
-          <provider editor-type-id="android-designer2" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_insert_anew_data.xml">
-          <provider editor-type-id="android-designer2" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+              <caret line="40" column="33" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -113,16 +120,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
-        <option value="layoutResourceFile_vertical" />
         <option value="resourceFile" />
         <option value="layoutResourceFile" />
+        <option value="Class" />
+        <option value="layoutResourceFile_vertical" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>getStudentByName</find>
       <find>cursor</find>
       <find>getStudent</find>
       <find>position</find>
@@ -151,6 +157,8 @@
       <find>TableName</find>
       <find>Data</find>
       <find>Database</find>
+      <find>database</find>
+      <find>insertUserDetails</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -181,18 +189,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/StoreImageActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_store_image.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_insert_data.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/kLerTry/SQLiteHelper.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/kLerTry/InsertData.java" />
-        <option value="$PROJECT_DIR$/app/build.gradle" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/food_list_activity.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/Food/food_items.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/food_items.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/Food/InsertData.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/Food/MyInsertData.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_my_insert_data.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/Food/Food.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/kLerTry/MyInsertData.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/Food/food_list_activity.xml" />
@@ -225,13 +221,25 @@
         <option value="$PROJECT_DIR$/app/src/main/res/drawable/my_one.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/drawable/my_gray_one_this.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/my.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/MainActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/drawable/background_green_x.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_search_view_custom.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_insert_anew_data.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/InsertANewData.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/Database/Database.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/DeletedIfNotWork/DataHelper.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/DeletedIfNotWork/Food.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/DeletedIfNotWork/InsertDataToData.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/DeletedIfNotWork/FoodListAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/food_list_activity.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/DeletedIfNotWork/FoodList.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/DeletedIfNotWork/InsertNewDataActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_insert_data_to_data.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/background_insert.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/InsertANewData.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/DeletedIfNotWork/InsertDataUser.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_insert_data_user.xml" />
       </list>
     </option>
   </component>
@@ -278,14 +286,7 @@
               <item name="app" type="feadf853:AndroidModuleNode" />
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
               <item name="showuseronrecyclerview" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="FromRoshan" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ShowUserOnRecyclerView" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="showuseronrecyclerview" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="kLerTry" type="462c0819:PsiDirectoryNode" />
+              <item name="DeletedIfNotWork" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ShowUserOnRecyclerView" type="1abcf292:AndroidViewProjectNode" />
@@ -567,7 +568,7 @@
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="D:/6th Semester/Android/android-sdk-windows-1.6_r1" />
-    <property name="device.picker.selection" value="Pixel_API_27" />
+    <property name="device.picker.selection" value="XTX7N18C17000039" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="show.migrate.to.gradle.popup" value="false" />
@@ -579,6 +580,7 @@
       <recent name="C:\Users\hp\AndroidStudioProjects\editer files\ShowUserOnRecyclerView\ShowUserOnRecyclerView\app\src\main\res\layout\fOOD" />
     </key>
     <key name="android.template.packageName">
+      <recent name="programable.android.klerart.showuseronrecyclerview.DeletedIfNotWork" />
       <recent name="programable.android.klerart.showuseronrecyclerview" />
       <recent name="programable.android.klerart.showuseronrecyclerview.kLerTry" />
       <recent name="programable.android.klerart.showuseronrecyclerview.Food" />
@@ -588,15 +590,16 @@
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="programable.android.klerart.showuseronrecyclerview.DeletedIfNotWork" />
       <recent name="programable.android.klerart.showuseronrecyclerview.kLerTry" />
       <recent name="programable.android.klerart.showuseronrecyclerview" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\hp\AndroidStudioProjects\editer files\ShowUserOnRecyclerView\ShowUserOnRecyclerView\app\src\main\res\drawable" />
+      <recent name="C:\Users\hp\AndroidStudioProjects\editer files\ShowUserOnRecyclerView\ShowUserOnRecyclerView\app\src\main\res\layout" />
+      <recent name="C:\Users\hp\AndroidStudioProjects\editer files\ShowUserOnRecyclerView\ShowUserOnRecyclerView\app\src\main\java\programable\android\klerart\showuseronrecyclerview\DeletedIfNotWork" />
       <recent name="C:\Users\hp\AndroidStudioProjects\editer files\ShowUserOnRecyclerView\ShowUserOnRecyclerView\app\src\main\assets\databases" />
       <recent name="C:\Users\hp\AndroidStudioProjects\editer files\ShowUserOnRecyclerView\ShowUserOnRecyclerView\app\src\main\java\programable\android\klerart\showuseronrecyclerview\Food" />
-      <recent name="C:\Users\hp\AndroidStudioProjects\editer files\ShowUserOnRecyclerView\ShowUserOnRecyclerView\app\src\main\res\layout" />
-      <recent name="C:\Users\hp\AndroidStudioProjects\editer files\ShowUserOnRecyclerView\ShowUserOnRecyclerView\app\src\main\res\layout\Food" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -882,7 +885,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570185002932</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="i hope find A way for it">
+      <created>1570202089404</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1570202089405</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TodoView">
@@ -896,10 +906,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" sideWeight="0.5023256" side_tool="true" weight="0.20121029" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.4964029" visible="true" weight="0.28895614" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.4964029" visible="true" weight="0.28895614" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" sideWeight="0.50359714" side_tool="true" weight="0.20121029" />
       <window_info id="Build Variants" order="4" sideWeight="0.50359714" side_tool="true" weight="0.20121029" />
@@ -908,13 +917,13 @@
       <window_info id="Resources Explorer" order="7" weight="0.32980332" />
       <window_info id="Capture Tool" order="8" />
       <window_info anchor="bottom" id="Run" order="0" sideWeight="0.4977307" weight="0.32850242" />
-      <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.48940998" weight="0.41223833" />
+      <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.48865354" weight="0.41223833" />
       <window_info anchor="bottom" id="TODO" order="2" sideWeight="0.49924356" weight="0.32850242" />
       <window_info anchor="bottom" id="Debug" order="3" />
       <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.49924356" weight="0.32850242" />
-      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.51664144" side_tool="true" visible="true" weight="0.29307568" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5173979" side_tool="true" visible="true" weight="0.29307568" />
       <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.49621785" weight="0.32850242" />
-      <window_info active="true" anchor="bottom" id="Build" order="7" sideWeight="0.48335856" visible="true" weight="0.29307568" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.48260212" visible="true" weight="0.29307568" />
       <window_info anchor="bottom" id="Android Profiler" order="8" />
       <window_info anchor="bottom" id="Flutter Performance" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="10" weight="0.32850242" />
@@ -989,7 +998,8 @@
     <MESSAGE value="kler 00011" />
     <MESSAGE value="kler 00011      aaaaaaaaaaa" />
     <MESSAGE value="this now Locking For Insert A new Data" />
-    <option name="LAST_COMMIT_MESSAGE" value="this now Locking For Insert A new Data" />
+    <MESSAGE value="i hope find A way for it" />
+    <option name="LAST_COMMIT_MESSAGE" value="i hope find A way for it" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1016,67 +1026,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/Food/FoodList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-595">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/Food/MyInsertData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="86" column="5" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/assets/databases/Students.sqlite">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/kLerTry/InsertDataActivityOrginal_kLer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="97" column="14" selection-start-line="95" selection-start-column="3" selection-end-line="102" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_extra.xml">
-      <provider editor-type-id="android-designer2" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/option_menu.xml" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/kLerTry/ExtraActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5">
-          <caret line="55" column="25" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/MyAdapter/SearchAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1700">
-          <caret line="133" column="55" selection-start-line="133" selection-start-column="51" selection-end-line="133" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/kLerTry/SQLiteHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/extra try/insert_data_view.xml" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/extra try/insert_data.xml" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_heloo_guys.xml" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/helooGuys.java" />
     <entry file="file://$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/BasicView.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
@@ -1221,9 +1170,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -1268,14 +1214,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer2" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="79" column="45" selection-start-line="79" selection-start-column="45" selection-end-line="79" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/background_green_x.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -1298,16 +1236,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="61" column="5" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_insert_anew_data.xml">
       <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
@@ -1323,21 +1251,143 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/DeletedIfNotWork/DataHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/DeletedIfNotWork/Food.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/DeletedIfNotWork/InsertDataToData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="120" column="53" selection-start-line="120" selection-start-column="53" selection-end-line="120" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/DeletedIfNotWork/FoodListAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="63" column="23" selection-start-line="63" selection-start-column="23" selection-end-line="63" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/food_items.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/update_food_activity.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/food_list_activity.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="62" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="62" />
+          <folding>
+            <element signature="e#315#350#0" expanded="true" />
+            <element signature="e#376#411#0" expanded="true" />
+            <element signature="e#435#470#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/DeletedIfNotWork/FoodList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="56" column="49" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/DeletedIfNotWork/InsertNewDataActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_insert_data_to_data.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/background_insert.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="55" column="66" selection-start-line="55" selection-start-column="66" selection-end-line="55" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/InsertANewData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="39" column="39" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
-          <folding>
-            <element signature="e#759#1364#0" expanded="true" />
-            <element signature="e#1363#1364#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="153">
+          <caret line="40" column="33" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/DeletedIfNotWork/InsertDataUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_insert_data_user.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="133" column="42" selection-start-line="133" selection-start-column="42" selection-end-line="133" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/programable/android/klerart/showuseronrecyclerview/Database/Database.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="370" column="38" selection-start-line="370" selection-start-column="38" selection-end-line="370" selection-end-column="38" />
+        <state relative-caret-position="63">
+          <caret line="299" column="29" selection-start-line="299" selection-start-column="19" selection-end-line="299" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#getDependToID#0;class#Database#0" />
